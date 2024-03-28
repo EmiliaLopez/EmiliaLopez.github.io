@@ -1,13 +1,17 @@
+
+El código que proporcionaste parece estar bien estructurado, pero hay un pequeño error de sintaxis en la descripción. Aquí está corregido:
+
+yaml
+Copy code
 title: <p align="center"> Emilia López </p>
 
 logo: "/images/picture.png?raw=true"
 
-description:
+description: |
   <p align="center">
   <a href="https://www.linkedin.com/in/emilia-l%C3%B3pez-reviriego/">LinkedIn</a> |
   <a href="https://public.tableau.com/app/profile/emilia.lopez2168">Tableau Public</a> | 
   <a href="https://github.com/EmiliaLopez">GitHub</a>
-  
   </p>
   
   <p align="left"> <strong> 
@@ -17,5 +21,5 @@ description:
   I'm a QA Tester skilled in both data analysis and software testing. I excel at ensuring software quality through rigorous testing methods while also leveraging data to create insightful dashboards for informed decision-making.
   <br><br>
   </p>
-  
+
 theme: jekyll-theme-minimal
