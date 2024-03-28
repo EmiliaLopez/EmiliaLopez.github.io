@@ -1,8 +1,4 @@
 
-El código que proporcionaste parece estar bien estructurado, pero hay un pequeño error de sintaxis en la descripción. Aquí está corregido:
-
-yaml
-Copy code
 title: <p align="center"> Emilia López </p>
 
 logo: "/images/picture.png?raw=true"
